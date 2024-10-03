@@ -1,4 +1,4 @@
-![I am Md-Noyon-Mia](https://github.com/Md-Noyon-Mia/Md-Noyon-Mia/blob/main/code.png)
+![I am Md-Noyon-Mia] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ssjpTj_PtGoApUATjC0E8IyDjnJrOu1qvQ&s)
 
 <h1 align="center">Hi 👋, I'm Noyon mia)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
